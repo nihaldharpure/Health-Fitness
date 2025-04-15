@@ -10,7 +10,7 @@ User Authentication: Securely manage user data and personal health records.
 CSV-Based Data Management: Organized and efficient storage of user, nutrition, and workout data.
 Email Notifications: Get reminders and alerts to maintain consistent health tracking.
 #Installation
-Clone the repository: git clone https://github.com/siddhant-vij/Health-Fitness-Tracker.git
+Clone the repository: git clone https://github.com/nihaldharpure/Health-Fitness
 Navigate to the project directory: cd Health-Fitness-Tracker
 Install dependencies: conda create --name fitness --file requirements.txt
 Activate the environment: conda activate fitness
